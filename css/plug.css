@@ -1,0 +1,39 @@
+a {
+	color:#ffdc00;
+	text-decoration:none;
+	border-bottom:1px dashed #ddd; }
+h1 {
+	color:#ddd; }
+h2 {
+	color:#ddd;
+	text-align: center; }
+h3 {
+	color:#ddd;
+	text-transform:uppercase; }
+h4 {
+	color:#ddd; }
+.blue {
+	color:#2ecc40; }
+.centre {
+	text-align:center; }
+.right {
+	text-align:right; }
+.banner {
+	max-width:100%;
+	margin-top:10px;
+	height:auto; }
+.imageleft {
+	float:left;
+	margin:1%;
+	border-radius:3%;
+	max-width:100%;
+	height:auto; }
+.imageright {
+	float:right;
+	margin:1%;
+	border-radius:3%;
+	max-width:100%;
+	height:auto; }
+.hidden {
+	color:#001f3f;
+	text-shadow:0 0 0px; }
