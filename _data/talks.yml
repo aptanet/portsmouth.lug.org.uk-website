@@ -1,0 +1,207 @@
+- date: 2019-09-21
+  title: Bring-a-box meet with lightning talks
+  speaker: none
+- date: 2019-08-17
+  title: Bring-a-box meet with lightning talks
+  speaker: none
+- date: 2019-07-20
+  title: WordPress - the hard way
+  speaker: Paul Tansom
+- date: 2019-06-15
+  title: Bring-a-box meet with lightning talks
+  speaker: none
+- date: 2019-05-18
+  title: Bring-a-box meet with lightning talks
+  speaker: none
+- date: 2019-04-20
+  title: Bring-a-box meet with lightning talks
+  speaker: none
+- date: 2019-03-16
+  title: Bring-a-box meet with lightning talks
+  speaker: none
+- date: 2019-02-16
+  title: Bring-a-box meet with lightning talks
+  speaker: none
+- date: 2019-01-19
+  title: Load balancing with the Linux Kernel
+  speaker: Andrew Howe
+- date: 2018-12-15
+  title: Mince Pi(e)s and Christmas Cheer
+  speaker: none
+- date: 2018-11-17
+  title: A Journey into Ansible using Dokuwiki
+  speaker:  Paul Tansom
+- date: 2018-10-20
+  title: "Lightning talk: The PLUG Telegram Channel"
+  speaker: Paul Tansom
+- date: ditto
+  title: "Lightning talk: Recording from a USB Cassetter Recorder with Audacity"
+  speaker: Paul Tansom
+- date: 2018-09-15
+  title: Bring-a-box meet plus lightning talks
+  speaker: none
+- date: 2018-08-18
+  title: Bring-a-box meet plus lightning talks
+  speaker: none
+- date: 2018-07-21
+  title: "ANTLR: Another Tool for Language Recognition"
+  speaker: Jeffrey Best
+- date: 2018-06-16
+  title: Bring-a-box meet plus lightning talks
+  speaker: none
+- date: 2018-05-19
+  title: First steps with OpenWrt
+  speaker: Paul Tansom
+- date: 2018-04-21
+  title: Node-RED
+  speaker: Ross Cruickshank
+- date: 2018-03-17
+  title: Bring-a-box meet plus lightning talks
+  speaker: none
+- date: 2018-02-17
+  title: How to quit Vim and why not to
+  speaker: Paul Tansom
+- date: 2018-01-20
+  title: Bring-a-box meet plus lightning talks
+  speaker: none
+- date: 2017-12-16
+  title: Bring-a-box, Lightning Talks and Mince Pies
+  speaker: none
+- date: 2017-11-18
+  title: Where's my open smartphone?
+  speaker: Thomas Kluyver
+- date: 2017-10-21
+  title: First steps with Ansible
+  speaker: Paul Tansom
+- date: 2017-09-16
+  title: What on Earth is Oggcamp? (why there was no meeting last month!)
+  speaker: Paul Tansom
+- date: ditto
+  title: Ubuntu MATE 17.10 Preview
+  speaker: Paul Tansom
+- date: 2017-08-19
+  title: No meeting this month
+  speaker: none
+- date: 2017-07-15
+  title: Database Migration
+  speaker: Jeffrey Best
+- date: 2017-06-17
+  title: Creating your own customised Distro
+  speaker: Ian McKay
+- date: 2017-05-20
+  title: Bring-a-box meeting
+  speaker: none
+- date: 2017-04-15
+  title: Raspberry Pi fest and short talk on sshfs
+  speaker: Aidan Cole
+- date: 2017-03-18
+  title: Impress.js
+  speaker: Dr Jacek Kopecky (postponed)
+- date: 2017-02-18
+  title: Southampton Robotic Sailing Project
+  speaker: Dr. Thomas Kluyver
+- date: 2017-01-21
+  title: Remote Desktop Administration
+  speaker: Dr. Adam Trickett
+- date: 2016-12-17
+  title: D-Bus - A Short Talk
+  speaker: Thomas Kluyver
+- date: 2016-11-19
+  title: Building and Programming Drones
+  speaker: Dr. Gareth Owenson (né Owen)
+- date: 2016-10-15
+  title: A Whistle-stop Tour of jQuery and Node.js
+  speaker: Jeffrey Best
+- date: ditto
+  title: Mystery talk
+  speaker: John W. (short talk)
+- date: 2016-09-17
+  title: Open Source Science
+  speaker: Matthew Withers
+- date: 2016-08-20
+  title: A short talk on making contact over the Internet with ssh, using a virtual Ubuntu server in Google Compute Engine
+  speaker: Luke Stutters
+- date: 2016-07-16
+  title: Open Source VPN with strongSwan Assure
+  speaker: Andrew Wilkins
+- date: 2016-06-18
+  title: The first interactive computer system to design real buildings
+  speaker: Prue Amner
+- date: 2016-05-21
+  title: Installing Piwigo web gallery and Let's Encrypt SSL Certificates
+  speaker: Paul Tansom
+- date: 2016-04-16
+  title: Bring-a-box meeting
+  speaker: none
+- date: 2016-03-19
+  title: Developing a CouchDB Application Using CouchApp
+  speaker: Jeffrey Best
+- date: 2016-02-20
+  title: "Git: the content version manager"
+  speaker: Felicity Meadows
+- date: ditto
+  title: Building and Controlling a Robotic arm
+  speaker: Taylor Collins
+- date: 2016-01-16
+  title: How to build a Supercomputer
+  speaker: Dr. Gary Burton
+- date: 2015-12-19
+  title: Pies, Pi's and Zero cheer, a Raspberry Pi themed meet
+  speaker: none
+- date: 2015-11-21
+  title: The new Atom.io editor
+  speaker: Dr. Jacek Kopecky
+- date: 2015-10-17
+  title: Astrophotography &amp; FOSS
+  speaker: Matthew Withers (cancelled due to illness)
+- date: 2015-09-19
+  title: Bring-a-box meeting
+  speaker: none
+- date: 2015-08-15
+  title: The new h265 format for video data compression
+  speaker: John Eayrs
+- date: 2015-07-18
+  title: Virtualisation
+  speaker: Richard Crossley
+- date: 2015-06-20
+  title: Short talk on and Demonstration of Trinity DE
+  speaker: Lisi Reisz
+- date: 2015-05-16
+  title: Cryptography and Linux
+  speaker: Gareth Owen
+- date: 2015-04-18
+  title: Linux Networking
+  speaker: Andy Vawer
+- date: 2015-03-21
+  title: The State of Gaming on Linux
+  speaker: Paul Tansom
+- date: 2015-02-21
+  title: "Introduction to Perl: The friendly programming language"
+  speaker: Dr. Adam Trickett
+- date: 2015-01-17
+  title: Computing for the Visually Impaired
+  speaker: Mike Ray
+- date: 2014-12-20
+  title: "From fun to profit: the story of Tiger Computing"
+  speaker: Keith Edmunds
+- date: 2014-11-15
+  title: Tor, the darknet, online anonymity and privacy
+  speaker: Gareth Owen
+- date: 2014-10-18
+  title: Digital Photography
+  speaker: Dr. Adam Trickett
+- date: 2014-09-20
+  title: Bring-a-box meeting
+  speaker: none
+- date: 2014-08-16
+  title: Bioinformatics
+  speaker: Jan Kim
+- date: 2014-07-19
+  title: Code Club
+  speaker: Paul Tansom
+- date: 2014-06-21
+  title: The State of PHP in 2014
+  speaker: James Titcumb
+- date: 2012-11-17
+  title: DAD - Desktop Adapted for Dad
+  speaker: Dr. Adam Trickett
