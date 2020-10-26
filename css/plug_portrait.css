@@ -1,0 +1,42 @@
+body {
+	color: #ffffff;
+	background-color: #000000;
+	font-family:"Lucida Grande","Lucida Sans Unicode",Verdana,Arial,Helvetica,sans-serif;
+	text-shadow:0 0 4px #666666;
+	font-size:0.8em;
+	line-height:1.5em;
+	width: 800px;
+	margin: auto; }
+a {
+	color:#e6f523;
+	text-decoration:none;
+	border-bottom:1px dashed #0066CC; }
+h3 {
+	color: #ffffff;
+	text-transform: uppercase; }
+.centre {
+	text-align:center; }
+.menu {
+	border: 0px solid;
+	margin: 0px 20px; }
+.blue {
+	color: #73aae6; }
+.right {
+	text-align: right; }
+.talks {
+	text-align: left;
+	padding-left: 50px }
+.p_talks {
+	text-align: left;
+	padding-left: 50px }
+ul.p_talks li {
+	display: inline; }
+.imageleft {
+	float: left;
+	margin: 10px 10px 10px 10px }
+.imageright {
+	float: right;
+	margin: 10px 10px 10px 10px }
+.hidden {
+	color: #000000;
+	text-shadow:0 0 0px; }
