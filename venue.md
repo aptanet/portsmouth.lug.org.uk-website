@@ -4,11 +4,10 @@ title: PLUG | Portsmouth Linux User Group | Venue
 ---
 <div>
 	<h1>Venue</h1>
-	<h4><a href="http://www.broadoaksocialclub.net/where.php">Broad Oak Sports &amp; Social Club - Hilsea</a></h4>
+	<h4><a href="https://www.broadoaksocial.club/about-us/">Broad Oak Sports &amp; Social Club - Hilsea</a></h4>
 	<img style="width: 320px; height: 215px;" class="imageright" src="/images/broadoak.png" alt="Broad Oak Sports &amp; Social Club">
-	<p>Facilities for talks are good. We also have our own wi-fi over mobile broadband (thanks to
-	<a href="http://wwww.wifirangeextender.co.uk">Airtime Networking</a> who donated the router). In addition to wi-fi, there are four
-	ethernet ports for those that need a wired connection.</p>
+	<p>Facilities for talks are good. We also have our own wi-fi over mobile broadband (thanks to Airtime Networking who donated the router).
+	In addition to wi-fi, there are four ethernet ports for those that need a wired connection.</p>
 	<p>There is a bar, which also serves tea and coffee. We supply some sandwiches, and the bar has a few crisps, chocolate bars etc..
 	If you want anything more substantial by way of food you will need to bring it.</p>
 	<h3>Getting there</h3>
